@@ -1,0 +1,13 @@
+markdown: rdiscount
+pygments: true
+auto: true
+
+ftp_host: 'civilold.civil.cst.nihon-u.ac.jp'
+ftp_dir: '/web'
+ftp_passive: false
+
+  # optional
+ftp_port: 21                  # default 21
+ftp_username: 'h.nakamura'    # default read from stdin
+ftp_password: 'usabijztkfplyiab' # default read from stdin
+ftp_secure: false              # default false
