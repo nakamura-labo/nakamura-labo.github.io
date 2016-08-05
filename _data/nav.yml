@@ -13,3 +13,6 @@
 - name: アクセス
   path: access
   section_id: access
+- name: リンク
+  path: link
+  section_id: link
