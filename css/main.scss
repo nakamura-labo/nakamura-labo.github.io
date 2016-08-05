@@ -56,6 +56,11 @@ $on-laptop:        800px;
 // カスタマイズ
 
 // ページ上部の写真
+// fixed にしたので上部を50pxあける
+
+body {
+    padding-top: 50px;
+}
 
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
