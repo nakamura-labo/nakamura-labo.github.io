@@ -8,8 +8,8 @@
 # Site settings
 title: 中村研究室
 email: nakamura.hideo.civil.cst.nu@gmail.com
-baseurl: ""
-url: "http://nakamura-labo.github.io"
+baseurl: "/~h.nakamura"
+url: "http://civilold.civil.cst.nihon-u.ac.jp"
 
 # Build settings
 sass:
