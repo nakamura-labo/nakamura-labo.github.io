@@ -16,7 +16,8 @@ section_id: labo
 
 * [メンバー](member)
 * [論文・学会発表](papers)
-* [出来事](blog/)
+* [出来事](blog)
+* [アクセス](access)
 {: .list-unstyled}
 
 <div class="two spacing"></div>
