@@ -1,0 +1,62 @@
+<!-- Static navbar -->
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+        {% for item in site.data.nav %}
+        {% if item.section_id == page.section_id %}
+        {% assign active_class = "active" %}
+        {% else %}
+        {% assign active_class = "" %}
+        {% endif %}
+
+        {% if item.children %}
+        <li class="dropdown {{active_class}}">
+            <a href="" class="dropdown-toggle" data-toggle="dropdown">
+              {{ item.name }}
+              <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              {% for child in item.children %}
+              <li>
+                <a href="{{site.url}}/{{ child.path }}">{{ child.name }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+        </li>
+        {% else %}
+        <li class="{{active_class}}">
+          <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</nav>
+
+<div class="intro-header">
+  <div class="container">
+
+	<div class="row">
+	  <div class="col-lg-8 col-lg-offset-2">
+		<div class="intro-message">
+		  <h1>中村研究室</h1>
+		  <hr class="intro-divider">
+		  <h3>日本大学 理工学部土木工学科<br />
+ 都市・交通研究室</h3>
+		</div>
+	  </div>
+	</div>
+
+  </div>
+
+</div>

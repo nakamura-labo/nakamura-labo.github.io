@@ -1,0 +1,15 @@
+- name: メンバー
+  children:
+    - name: 全員
+      path: member
+    - name: 中村英夫 教授
+      path: nakamura
+- name: 論文・学会発表
+  path: papers
+  section_id: papers
+- name: 出来事
+  path: posts/
+  section_id: posts
+- name: アクセス
+  path: access
+  section_id: access
