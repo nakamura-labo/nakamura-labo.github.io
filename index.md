@@ -10,8 +10,6 @@ section_id: labo
 
 都市計画、都市交通、都市開発などを主な研究分野として活動しています。
 
-<div class="two spacing"></div>
-
 ## 主なコンテンツ
 
 * [メンバー](member)
@@ -20,8 +18,6 @@ section_id: labo
 * [アクセス](access)
 * [リンク](link)
 {: .list-unstyled}
-
-<div class="two spacing"></div>
 
 ## 最近の更新
 

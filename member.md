@@ -8,8 +8,6 @@ section_id: member
 ## 教員
 教授　[中村 英夫](nakamura)
 
-<div class="two spacing"></div>
-
 ## 学部４年
 
 |氏名|卒業研究テーマ|
