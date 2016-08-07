@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+system('git checkout civilold')
+system('git merge master')
+system('glynn')
+system('git checkout master')
