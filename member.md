@@ -1,6 +1,6 @@
 ---
 layout: page
-title: メンバー
+title: メンバー | 中村研究室
 section_id: member
 ---
 # メンバー

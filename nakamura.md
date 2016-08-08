@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 中村英夫教授
+title: 中村英夫教授 | 中村研究室
 section_id: nakamura
 ---
 # 中村英夫 教授

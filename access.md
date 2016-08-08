@@ -1,6 +1,6 @@
 ---
 layout: page
-title: アクセス
+title: アクセス | 中村研究室
 section_id: access
 ---
 
