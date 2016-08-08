@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
 system('git checkout civilold')
-system('git merge master')
+system('git merge master -m "Merge branch 'master' into civilold"')
 system('glynn')
 system('git checkout master')
