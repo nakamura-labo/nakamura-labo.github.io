@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 最近の出来事 | 中村研究室
 section_id: posts
 ---
 

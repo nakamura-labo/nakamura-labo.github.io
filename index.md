@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 研究室概要
+title: 研究室概要 | 中村研究室
 section_id: labo
 ---
 

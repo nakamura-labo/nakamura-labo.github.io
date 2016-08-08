@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 論文・学会発表等
+title: 論文・学会発表等 | 中村研究室
 section_id: papers
 ---
 

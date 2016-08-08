@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 関連リンク
+title: 関連リンク | 中村研究室
 section_id: link
 ---
 # 関連リンク
