@@ -1,6 +1,7 @@
 ---
 layout: page
 title: メンバー | 中村研究室
+description: 日本大学 理工学部 土木工学科 都市・交通研究室（中村研究室）のメンバー
 section_id: member
 ---
 # メンバー

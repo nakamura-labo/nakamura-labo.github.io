@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 中村英夫教授 | 中村研究室
+description: 日本大学 理工学部 土木工学科 都市・交通研究室（中村研究室） 中村教授のプロフィール
 section_id: nakamura
 ---
 # 中村英夫 教授
