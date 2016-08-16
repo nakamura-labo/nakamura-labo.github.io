@@ -18,6 +18,7 @@ section_id: labo
 * [出来事](posts)
 * [アクセス](access)
 * [リンク](link)
+* [サイトマップ](sitemap)
 {: .list-unstyled}
 
 ## 最近の更新
