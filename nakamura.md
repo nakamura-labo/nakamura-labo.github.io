@@ -43,3 +43,10 @@ section_id: nakamura
 ## 論文、学会発表等
 
 [論文・学会発表等](papers)を御覧ください。
+
+## 日本大学研究者情報
+
+[日本大学研究者情報システム](http://kenkyu-web.cin.nihon-u.ac.jp/scripts/websearch/index.htm?lang=ja)
+の
+[中村英夫のページ](http://kenkyu-web.cin.nihon-u.ac.jp/Profiles/129/0012852/profile.html)
+も御覧ください。
