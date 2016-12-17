@@ -11,16 +11,6 @@ section_id: labo
 
 都市計画、都市交通、都市開発などを主な研究分野として活動しています。
 
-## 主なコンテンツ
-
-* [メンバー](member)
-* [論文・学会発表](papers)
-* [出来事](posts)
-* [アクセス](access)
-* [リンク](link)
-* [サイトマップ](sitemap)
-{: .list-unstyled}
-
 ## 最近の更新
 
 <ul class="post-list">
@@ -31,6 +21,16 @@ section_id: labo
   </li>
   {% endfor %}
 </ul>
+
+## 主なコンテンツ
+
+* [メンバー](member)
+* [論文・学会発表](papers)
+* [出来事](posts)
+* [アクセス](access)
+* [リンク](link)
+* [サイトマップ](sitemap)
+{: .list-unstyled}
 
 <!--
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
