@@ -64,6 +64,12 @@ section_id: papers
 1. DTCP and JICA, Seminar on Land Readjustment, "Land Readjustment in Japan", 2007年2月
 1. MMDA and JICA, Development Vision and Strategies for a Mega Manila Region, "The Development of the National Capital Region and the Creation of Business Core Cities in Japan", 2006年2月
 
+## 社会活動
+
+1. 軽井沢22世紀風土フォーラム・軽井沢駅北口ステーションフロント構想プロジェクトチーム構成員（2016年7月-）
+1. 松山市立地適正化計画及び交通網形成検討協議会・鉄軌道検討部会オブザーバー（2016年6月-）
+1. 川崎市都市計画審議会委員（2016年5月-）
+
 ## 所属学協会
 
 1. 交通工学研究会
