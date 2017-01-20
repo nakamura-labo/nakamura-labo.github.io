@@ -12,7 +12,9 @@ section_id: labo
 * 初期設定
     * [利用者登録・ID・初期PW](#利用者登録・ID・初期PW)
     * [接続・パスワード変更](#接続・パスワード変更)
-* [共有フォルダ・個人フォルダの利用](#共有フォルダ・個人フォルダの利用)
+    * [ドライブの割り当て（Windows）](#ドライブの割り当て)
+    * [ドライブの認識（Mac）](ドライブの認識)
+* [インターネット経由での共有フォルダ・個人フォルダの利用](#インターネット経由での共有フォルダ・個人フォルダの利用)
 
 <a name="概要"></a>
 ## 概要
@@ -42,8 +44,27 @@ section_id: labo
 * 新しいパスワードを設定する（右上の人の上半身のアイコンをクリックし、「ログアウト」メニューを選択）
 ![ログイン後のトップページ]({{site.baseurl}}/images/20170120option-menu.png)
 
-<a name="共有フォルダ・個人フォルダの利用"></a>
-### 共有フォルダ・個人フォルダの利用
+<a name="ドライブの割り当て"></a>
+### ドライブの割り当て（Windows）
+* [Synologyのサイト](https://www.synology.com/ja-jp/knowledgebase/DSM/help/DSM/Tutorial/store_with_windows)を参考に設定します。Windows10の場合は、次のようになります。
+* エクスプローラーを起動し、ネットワークドライブの割り当てをクリック
+![ネットワークドライブメニュー]({{site.baseurl}}/images/network-drive-menu.png)
+* フォルダー欄に「\\192.168.11.28\public」と入力し、再接続するにチェックを入れて、次に進む。「\」は、Windowsでは半角の円マークを入力する。
+![ネットワークパスの入力]({{site.baseurl}}/images/assign-network-drive.png)
+* 共有フォルダのIDとパスワードを入力し、資格情報を記憶にチェックを入れて、次に進む
+![認証]({{site.baseurl}}/images/nas-authentication.png)
+* ドライブが追加された
+![エクスプローラー（ドライブ追加）]({{site.baseurl}}/images/public-drive-added.png)
+* 同様に個人フォルダ（パスは、\\192.168.11.28\home）もネットワークドライブの割り当てを行う
+
+<a name="ドライブの認識"></a>
+### ドライブの認識（Mac）
+* [Synologyのサイト](https://www.synology.com/ja-jp/knowledgebase/DSM/help/DSM/Tutorial/store_with_mac)を参考に設定して下さい。
+* IPアドレスは、192.168.11.28です。
+
+<a name="インターネット経由での共有フォルダ・個人フォルダの利用"></a>
+### インターネット経由での共有フォルダ・個人フォルダの利用
+* 自宅などからのインターネット経由でもフォルダにアクセスできます。
 * ブラウザから [https://QuickConnect.to/nakamura-nas01/](https://QuickConnect.to/nakamura-nas01/) にアクセス
 * ログインID、初期パスワードを入れてサインイン
 * File Stationのアイコンをクリックすると下のダイアログが出る。「home」が個人フォルダ（あなただけアクセス可能）、「」が共有フォルダ（登録利用者全員がアクセス可能）
