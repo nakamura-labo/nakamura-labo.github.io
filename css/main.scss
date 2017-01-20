@@ -133,6 +133,10 @@ h2 {
     font-size: $base-font-size * 1.2;
 }
 
+h3, h4, h5, h6 {
+    font-size: $base-font-size * 1;
+}
+
 .main h1, .main h2 {
     border-left: 1em solid;
     border-bottom: 2px solid;
@@ -141,6 +145,13 @@ h2 {
 
 .main h2 {
     margin-top: 40px;
+}
+
+.main h3 {
+    border-left: 1em solid;
+    border-bottom: 2px solid;
+    margin-top: 40px;
+    padding: 0.0em 0.3em;
 }
 
 .post-list h2 {
