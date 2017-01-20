@@ -32,21 +32,21 @@ section_id: labo
 ### 接続・パスワード変更
 * ブラウザから [https://QuickConnect.to/nakamura-nas01/](https://QuickConnect.to/nakamura-nas01/) にアクセス
 * ログインID、初期パスワードを入れてサインイン
-![LANからのサインイン画面](../../../images/20170120nas-signin.png)
+![LANからのサインイン画面]({{site.baseurl}}/images/20170120nas-signin.png)
 * 右上の人の上半身のアイコンをクリックし、「個人」メニューを選択
-![ログイン後のトップページ](../../../images/20170120option-menu.png)
+![ログイン後のトップページ]({{site.baseurl}}/images/20170120option-menu.png)
 * 新しいパスワードを設定する
-![個人設定画面](../../../images/20171020personal-settings.png)
+![個人設定画面]({{site.baseurl}}/images/20171020personal-settings.png)
 * 一旦ログアウトして下さい
-![ログイン後のトップページ](../../../images/20170120option-menu.png)
+![ログイン後のトップページ]({{site.baseurl}}/images/20170120option-menu.png)
 * 新しいパスワードを設定する（右上の人の上半身のアイコンをクリックし、「ログアウト」メニューを選択）
-![ログイン後のトップページ](../../../images/20170120option-menu.png)
+![ログイン後のトップページ]({{site.baseurl}}/images/20170120option-menu.png)
 
 <a name="共有フォルダ・個人フォルダの利用"></a>
 ### 共有フォルダ・個人フォルダの利用
 * ブラウザから [https://QuickConnect.to/nakamura-nas01/](https://QuickConnect.to/nakamura-nas01/) にアクセス
 * ログインID、初期パスワードを入れてサインイン
 * File Stationのアイコンをクリックすると下のダイアログが出る。「home」が個人フォルダ（あなただけアクセス可能）、「」が共有フォルダ（登録利用者全員がアクセス可能）
-![共有・個人フォルダ](../../../images/20170120file-station.png)
+![共有・個人フォルダ]({{site.baseurl}}/images/20170120file-station.png)
 * ファイルをドラッグアンドドロップで移動できます
-![ドラッグアンドドロップ](../../../images/20170120drag-and-drop.png)
+![ドラッグアンドドロップ]({{site.baseurl}}/images/20170120drag-and-drop.png)
