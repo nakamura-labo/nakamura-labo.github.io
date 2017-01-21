@@ -27,6 +27,7 @@ section_id: labo
 * [メンバー](member)
 * [論文・学会発表](papers)
 * [出来事](posts)
+* [研究室内Tips](tips)
 * [アクセス](access)
 * [リンク](link)
 * [サイトマップ](sitemap)
