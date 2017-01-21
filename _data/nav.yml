@@ -10,6 +10,9 @@
 - name: 出来事
   path: posts
   section_id: posts
+- name: 研究室内Tips
+  path: tips
+  section_id: tips
 - name: アクセス
   path: access
   section_id: access

@@ -2,7 +2,7 @@
 layout: page
 title: 研究室での共有フォルダ・個人フォルダ利用
 description: 中村研究室での共有フォルダ・個人フォルダの利用方法
-section_id: labo
+section_id: tips
 ---
 
 # 中村研究室における共有フォルダ・個人フォルダの利用について
