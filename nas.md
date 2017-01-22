@@ -49,13 +49,13 @@ section_id: tips
 * [Synologyのサイト](https://www.synology.com/ja-jp/knowledgebase/DSM/help/DSM/Tutorial/store_with_windows)を参考に設定します。Windows10の場合は、次のようになります。
 * エクスプローラーを起動し、ネットワークドライブの割り当てをクリック
 ![ネットワークドライブメニュー]({{site.baseurl}}/images/network-drive-menu.png)
-* フォルダー欄に「\\192.168.11.28\public」と入力し、再接続するにチェックを入れて、次に進む。「\」は、Windowsでは半角の円マークを入力する。
+* フォルダー欄に「\\\\92.168.11.28\public」と入力し、再接続するにチェックを入れて、次に進む。「\」は、Windowsでは半角の円マークを入力する。
 ![ネットワークパスの入力]({{site.baseurl}}/images/assign-network-drive.png)
 * 共有フォルダのIDとパスワードを入力し、資格情報を記憶にチェックを入れて、次に進む
 ![認証]({{site.baseurl}}/images/nas-authentication.png)
 * ドライブが追加された
 ![エクスプローラー（ドライブ追加）]({{site.baseurl}}/images/public-drive-added.png)
-* 同様に個人フォルダ（パスは、\\192.168.11.28\home）もネットワークドライブの割り当てを行う
+* 同様に個人フォルダ（パスは、\\\\192.168.11.28\home）もネットワークドライブの割り当てを行う
 
 <a name="ドライブの認識"></a>
 ### ドライブの認識（Mac）
