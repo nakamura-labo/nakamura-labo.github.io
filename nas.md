@@ -67,7 +67,7 @@ section_id: tips
 * 自宅などからのインターネット経由でもフォルダにアクセスできます。
 * ブラウザから [https://QuickConnect.to/nakamura-nas01/](https://QuickConnect.to/nakamura-nas01/) にアクセス
 * ログインID、初期パスワードを入れてサインイン
-* File Stationのアイコンをクリックすると下のダイアログが出る。「home」が個人フォルダ（あなただけアクセス可能）、「」が共有フォルダ（登録利用者全員がアクセス可能）
+* File Stationのアイコンをクリックすると下のダイアログが出る。「home」が個人フォルダ（あなただけアクセス可能）、「public」が共有フォルダ（登録利用者全員がアクセス可能）
 ![共有・個人フォルダ]({{site.baseurl}}/images/fy2016/20170120file-station.png)
 * ファイルをドラッグアンドドロップで移動できます
 ![ドラッグアンドドロップ]({{site.baseurl}}/images/fy2016/20170120drag-and-drop.png)
