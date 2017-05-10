@@ -31,7 +31,7 @@ section_id: link
 {: .list-unstyled}
 
 [cst]: http://www.cst.nihon-u.ac.jp
-[civil]: http://www.civil.nihon-u.ac.jp
+[civil]: http://www.civil.cst.nihon-u.ac.jp
 [laboratory]: http://www.civil.cst.nihon-u.ac.jp/laboratory/
 [mlit]: http://www.mlit.go.jp
 [reconstruction]: http://www.reconstruction.go.jp
