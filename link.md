@@ -27,6 +27,8 @@ section_id: link
   * [地理情報システム学会][gisa-japan]
   * [全国土地区画整理士会][lrex]
   * [都市環境エネルギー協会][dhcjp]
+  * [都市計画協会][tokeikyou]
+  * [アーバンインフラ・テクノロジー推進会議][uit]
   {: .list-unstyled}
 {: .list-unstyled}
 
@@ -42,3 +44,5 @@ section_id: link
 [gisa-japan]: http://www.gisa-japan.org
 [lrex]: http://www.lrex.or.jp
 [dhcjp]: http://www.dhcjp.or.jp/
+[tokeikyou]: http://www.tokeikyou.or.jp/
+[uit]: http://www.uit.gr.jp/
