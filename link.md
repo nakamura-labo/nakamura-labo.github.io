@@ -32,11 +32,6 @@ section_id: link
   {: .list-unstyled}
 {: .list-unstyled}
 
-* 資料
-  * [H29.9.1講演資料【2017.09.05まで公開】]({{site.baseurl}}/images/20170901.pdf)
-  {: .list-unstyled}
-{: .list-unstyled}
-
 [cst]: http://www.cst.nihon-u.ac.jp
 [civil]: http://www.civil.cst.nihon-u.ac.jp
 [laboratory]: http://www.civil.cst.nihon-u.ac.jp/laboratory/
