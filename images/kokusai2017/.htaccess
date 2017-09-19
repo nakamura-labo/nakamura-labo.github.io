@@ -1,0 +1,4 @@
+AuthType     Basic
+AuthName     "Authentication"
+AuthUserFile /home/user/h.nakamura/public_html/.htpasswd
+require valid-user
