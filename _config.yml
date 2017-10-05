@@ -14,7 +14,7 @@ url: "http://nakamura-labo.github.io"
 # Build settings
 sass:
   sass_dir: _sass
-include: ['_pages']
+include: ['_pages','.htaccess']
 markdown: kramdown
 kramdown:
   input: GFM
