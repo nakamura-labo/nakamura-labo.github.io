@@ -9,3 +9,6 @@ section_id: tips
 
 * [共有フォルダ・個人フォルダ]({{site.baseurl}}/nas)（研究室内外からアクセス可能です）
 * [スキャナの利用法]({{site.baseurl}}/scansnap)
+* [ジオコーディング支援][geocoding]
+
+[geocoding]: https://www.youter.org/geocoding/inquiry/index
