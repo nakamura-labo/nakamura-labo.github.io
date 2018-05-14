@@ -29,6 +29,7 @@ section_id: link
   * [都市環境エネルギー協会][dhcjp]
   * [都市計画協会][tokeikyou]
   * [アーバンインフラ・テクノロジー推進会議][uit]
+  * [日本河川協会][japanriver]
   {: .list-unstyled}
 {: .list-unstyled}
 
@@ -46,3 +47,4 @@ section_id: link
 [dhcjp]: http://www.dhcjp.or.jp/
 [tokeikyou]: http://www.tokeikyou.or.jp/
 [uit]: http://www.uit.gr.jp/
+[japanriver]: http://www.japanriver.or.jp/
