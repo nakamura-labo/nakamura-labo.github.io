@@ -22,6 +22,6 @@ TEL:  03-3259-0876
 
 研究室が入っているビルは上記住所とは異なります。
 
-理工学部　３号館　３階　３３９室（下記地図を参照ください）
+理工学部　タワー・スコラ S1015室（下記地図を参照ください）
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.1554744001364!2d139.76267791525925!3d35.69779148019045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c1a4eb07d6f%3A0x580e498ea6debd2d!2z44CSMTAxLTAwNjIg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy656We55Sw6ae_5rKz5Y-w77yU5LiB55uu77yR4oiS77yW!5e0!3m2!1sja!2sjp!4v1470382676514" width="600" height="450" frameborder="0" style="border:1" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1620.0841161518533!2d139.7643084!3d35.6974775!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c1a52207b3b%3A0x1f9641a4f6eaf2f!2z44CSMTAxLTAwNjIg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy656We55Sw6ae_5rKz5Y-w77yT5LiB55uu77yR77yR4oiS77yU!5e0!3m2!1sja!2sjp!4v1561179980871!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
