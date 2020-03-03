@@ -59,6 +59,7 @@ section_id: papers
 
 ## 講演・外部講師など
 
+1. 全日本土地区画整理士会、区画整理サロン、スピーカー、「防災・減災対策とまちづくりの連携」、2020年3月
 1. Shanghai Summit on Global Urban Underground Space Development and Utilization & the 7th China (Shanghai) Conference on Underground Space Development and Exploration 2019, "The Promotion of Underground Space Utilization in Tokyo Through Public-Private Partnership", 2019年10月
 1. 第18回札幌都心共創フォーラム、講演「公民で進める都心総合再生」、2019年8月
 1. 令和元年度都市みらい推進機構講演会、寄稿、「都市計画とオープンデータ」、2019年7月
