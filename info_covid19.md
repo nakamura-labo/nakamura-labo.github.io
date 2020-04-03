@@ -23,6 +23,7 @@ section_id: info_covid19
 
 ### 就職関係・奨学金
 * 学校推薦書の発行申込及び受け取りを、登校することなく、当面は郵送で対応することや、健康診断書提出の扱いについて、昨日、民間希望者向けMLでお知らせしています。不明な点については、[土木事務室][jimushitu]へ御確認ください。
+* 卒業（修了）見込証明書は郵送での申請ができます。[教務課ページへ][kyoumu]。
 * [奨学金関係のお知らせ][shougakukin]があります。
 
 ### その他
@@ -68,3 +69,4 @@ section_id: info_covid19
 [shougakukin]: https://www.cst.nihon-u.ac.jp/news/detail/20200331_563.html
 [infection_prevention]: https://www.cst.nihon-u.ac.jp/news/detail/20200402_567.html
 [jimushitu]: http://www.civil.cst.nihon-u.ac.jp/contact/
+[kyoumu]: https://www.cst.nihon-u.ac.jp/campuslife/support/certification_g.html
