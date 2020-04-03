@@ -63,7 +63,7 @@ section_id: info_covid19
 [csthp]: https://www.cst.nihon-u.ac.jp/info_covid19/
 [nyukoseigen]: https://www.cst.nihon-u.ac.jp/news/detail/20200331_562.html
 [nyukokinshi]: https://www.cst.nihon-u.ac.jp/news/detail/20200331_561.html
-[backtojapan]: https://www.cst.nihon-u.ac.jp/news/detail/20200331_566.html
+[backtojapan]: https://www.cst.nihon-u.ac.jp/news/detail/20200402_566.html
 [healthcheck]: https://www.cst.nihon-u.ac.jp/info_covid19/pdf/20200401.pdf
 [guidance]: https://www.cst.nihon-u.ac.jp/news/detail/20200330_560.html
 [shougakukin]: https://www.cst.nihon-u.ac.jp/news/detail/20200331_563.html
