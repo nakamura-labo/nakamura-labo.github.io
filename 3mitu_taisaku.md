@@ -11,6 +11,7 @@ section_id: info_covid19
 
 * 入室に人数制限を設けました
 * ドアは開け放しです
+
 ![土木事務室入り口の掲示]({{site.baseurl}}/images/fy2020/entrance.jpg)
 
 * 廊下には間隔を開けて並ぶよう黄色テープが貼られています
