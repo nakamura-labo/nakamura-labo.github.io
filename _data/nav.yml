@@ -1,3 +1,6 @@
+- name: コロナに係る土木工学科関連情報
+  path: info_covid19
+  section_id: info_covid19
 - name: メンバー
   children:
     - name: 全員
