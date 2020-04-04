@@ -59,4 +59,4 @@ section_id: online_lecture
 
 
 [waseda]: http://www.waseda.jp/navi/wsdmoodle/doc/wm-1ststep-st_j.pdf
-[tokyo-u]: https://utelecon.github.io/oc/
+[tokyo-u]: https://utelecon.github.io/oc/#オンライン授業って
