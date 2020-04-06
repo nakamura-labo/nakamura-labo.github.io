@@ -32,6 +32,7 @@ section_id: info_covid19
 サイトトップ下部の教職員メニューからログインします。
 
 現在は、中村しか登録されていないので、次の情報でログインしてください。
+* URL： https://mini-exercise.herokuapp.com
 * メールアドレス：nakamura.hideo74@nihon-u.ac.jp
 * パスワード：111111 （半角の1を6つ）
 
