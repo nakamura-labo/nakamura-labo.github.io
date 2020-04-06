@@ -18,38 +18,41 @@ section_id: info_covid19
 
 ## トップ画面
 
-![サイトトップ](images/01.top.png)
+<img src="images/01.top.png" alt="サイトトップ" width="600px" />
 
 * 学生ログイン画面ですが、教員・管理者メニューへのリンクも含みます。
 * メールアドレス（学生は＠の前のアカウント部分）とパスワードでログインします。
 * パスワードを忘れた場合は、パスワードリセット機能があります（リセット確認メールが送られる）。
 
-![パスワードを忘れた](images/01.password_reset.png)
-![パスワードリセットメール](images/01.password_reset_mail.png)
+<img src="images/01.password_reset.png" alt="パスワードを忘れた" width="600px" />
+
+<img src="images/01.password_reset_mail.png" alt="パスワードリセットメール" width="600px" />
 
 ## 教員
 ### ログイン
 サイトトップ下部の教職員メニューからログインします。
 
-![教員ログイン](images/02.staff_login.png)
+<img alt="教員ログイン" src="images/02.staff_login.png" width="600px" />
+
+
 
 ### ログイン後の教員トップ画面
 
 現在登録されている科目の一覧と、問題一覧が表示されます。
 
-![教員トップ画面](images/03.staff_top.png)
+<img alt="教員トップ画面" src="images/03.staff_top.png" width="600px" />
 
 ### 授業科目の追加
 
 2020年度の授業用の科目を追加してみましょう。科目一覧タイトルの右にある[科目追加]をクリックすると、科目の新規作成画面になります。
 
 
-![科目の新規作成](images/04.create_subject.png)
+<img alt="科目の新規作成" src="images/04.create_subject.png" width="600px" />
 
 必要事項を入力して作成すると、科目一覧に「2020 土木技術者倫理」が追加されています。
 (ミニ演習実施回数が1になっているのは、画面キャプチャをし忘れて後で撮り直したからです)
 
-![科目が追加された](images/04.subject_added.png)
+<img alt="科目が追加された" src="images/04.subject_added.png" width="600px" />
 
 ### 問題の追加
 
@@ -57,7 +60,7 @@ section_id: info_covid19
 科目名、作成した教員名、問題名、問題を解かせる時刻、解かせるときに入力させるパスコードを入力します。パスコードは、教室にいないと回答できないようにするための措置です。実際は、LINEなどで伝えられたら無力ですけれど、多少の抑止にはなるでしょう。
 
 
-![ミニ演習の追加](images/05.mini-exercise_added.png)
+<img alt="ミニ演習の追加" src="images/05.mini-exercise_added.png" width="600px" />
 
 
 ### 問題の実施状況
@@ -68,19 +71,19 @@ section_id: info_covid19
 
 下段の「学生一覧」のブロックには、この科目に登録した学生リストが表示されます。今回は、まだ誰も登録していないので、表示されていません。
 
-![問題一覧](images/05.mini-exercise_list.png)
+<img alt="問題一覧" src="images/05.mini-exercise_list.png" width="600px" />
 
 この画面で問題名「工程管理ー004」をクリックすると、回答状況のグラフが表示されます。下図は別の問題の例です。
 
-![回答状況グラフ](images/06.mini-exercise_result.png)
+<img alt="回答状況グラフ" src="images/06.mini-exercise_result.png" width="600px" />
 
 問題作成画面は今回は割愛しますが、作成した問題は次のように、「本文」「選択肢」「正答」「解説」からなります。この例では全体に対する解説をする例ですが、選択肢ごとに解説をする形式も可能です。
 
-![ミニ演習の追加](images/08.mini-exercise_prepared_by_staff.png)
+<img alt="ミニ演習の追加" src="images/08.mini-exercise_prepared_by_staff.png" width="600px" />
 
 また、教職員トップ画面の科目名の一番右にある「エクセルダウンロード」をクリックすると、次のようなエクセルを入手できます。
 
-![エクセル](images/07.subject_result.png)
+<img alt="エクセル" src="images/07.subject_result.png" width="600px" />
 
 ## 学生
 
@@ -88,7 +91,7 @@ section_id: info_covid19
 
 つぎの画面からログインします。
 
-![サイトトップ](images/01.top.png)
+<img alt="サイトトップ" src="images/01.top.png" width="600px" />
 
 ### 学生トップ
 
@@ -96,31 +99,31 @@ section_id: info_covid19
 
 有効なミニ演習は「今はありません。」と表示されています。
 
-![学生トップ・演習なし](images/10.student_top_without_exercise.png)
+<img alt="学生トップ・演習なし" src="images/10.student_top_without_exercise.png" width="600px" />
 
 ### ミニ演習に回答する
 
 教員が設定した回答時刻内であれば、次の画面のように有効なミニ演習が表示されます。
 表示されるのは、回答可能時間帯、科目名、演習名、そしてパスコード入力欄です。
 
-![学生トップ・演習あり](images/11.student_top_with_exercise.png)
+<img alt="学生トップ・演習あり" src="images/11.student_top_with_exercise.png" width="600px" />
 
 教員から示されたパスコードを入力すると、問題画面に遷移します。当然ですが、正答や解説はまだ表示されません。また、選択肢の順序はランダムに表示されます。拡散された正答番号を入力しても無意味だ、とするためです。
 
-![問題回答画面](images/12.question.png)
+<img alt="問題回答画面" src="images/12.question.png" width="600px" />
 
 回答はプルダウンで選択します。
 
-![問題回答画面](images/13.select_answer.png)
+<img alt="問題回答画面" src="images/13.select_answer.png" width="600px" />
 
 間違えると、画面上部にアラートが表示されます。
 
 正誤にかかわらず、正答、あなたの回答、解説が表示されます。
 
-![問題解説画面](images/14.ooops.png)
+<img alt="問題解説画面" src="images/14.ooops.png" width="600px" />
 
 ### 自分の回答履歴
 
 自分が取り組んできた演習の履歴を見ることができます。
 
-![問題解説画面](images/16.exercise_history.png)
+<img alt="問題解説画面" src="images/16.exercise_history.png" width="600px" />
