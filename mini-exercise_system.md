@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 土木事務室の３密対策
-description: 日本大学 理工学部 土木工学科 コロナウイルス関連 土木事務室 ３密対策
+title: 小テスト実施システム 概要
+description: 日本大学 理工学部 土木工学科
 section_id: info_covid19
 ---
 # 小テスト実施システム　概要
