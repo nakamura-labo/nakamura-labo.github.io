@@ -24,7 +24,7 @@ section_id: info_covid19
 ## 土木工学科からのお知らせ
 
 ### 日本大学及び理工学部長メッセージ**[New]**
-* [日本大学の学生・生徒及び御家族の皆様へ]l(http://www.nihon-u.ac.jp/information/2020/04/11866/)
+* [日本大学の学生・生徒及び御家族の皆様へ](http://www.nihon-u.ac.jp/information/2020/04/11866/)
 * [「未知未踏への挑戦」のマインドで難局に立ち向かおう](https://www.cst.nihon-u.ac.jp/news/detail/20200407_570.html)が掲載されました。
 
 ### 校舎立ち入り制限**[New]**
