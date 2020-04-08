@@ -13,6 +13,7 @@ section_id: info_covid19
 状況は日々変化しており、毎日のように学生に向けたお知らせが出されています。１日一度はこのサイトを見て、情報を確認してください。
 
 #### 更新履歴
+* <span style="font-size: 85%">2020/04/08 在留期間更新手続きについて追加</span>
 * <span style="font-size: 85%">2020/04/08 学生御家族へのメッセージへのリンクを追加</span>
 * <span style="font-size: 85%">2020/04/07 理工学部長メッセージへのリンクを追加</span>
 * <span style="font-size: 85%">2020/04/07 緊急事態宣言を踏まえ、立ち入り制限、ガイダンス・授業日程、就職関係など更新、新入生等への資料送付を追加</span>
@@ -35,6 +36,9 @@ section_id: info_covid19
 * ガイダンスは4月20日（月）から、**通学を伴わない**ガイダンスを実施します。
 * 授業開始日は5月11日（月）から実施。ただし、4月20日（月）からCSTポータルを利用し授業資料を順次掲載する予定です（5月11日以降の補講等で対応する科目もあり得ます）。
 * [理工学部HP][0407guidance]をご覧ください。
+
+### 在留期間更新手続き**[New]**
+* [在留資格変更及び在留期間更新手続きについて][visaupdate]ごらんください。
 
 ### 新入生・編入学生・再入学生への資料送付**[New]**
 * あなたのID・パスワードやその他資料を4月10日（金）に郵便で発送します。
@@ -83,3 +87,4 @@ section_id: info_covid19
 [infection_prevention]: https://www.cst.nihon-u.ac.jp/news/detail/20200402_567.html
 [jimushitu]: http://www.civil.cst.nihon-u.ac.jp/contact/
 [kyoumu]: https://www.cst.nihon-u.ac.jp/campuslife/support/certification_g.html
+[visaupdate]: https://www.cst.nihon-u.ac.jp/news/detail/20200408_572.html
