@@ -72,6 +72,9 @@ section_id: info_covid19
 ### 健康管理に関すること
 * [新型コロナウイルス感染防止策の徹底について(4月2日)][infection_prevention]
 
+### 在留期間更新手続きに関すること**[New]**
+* [在留資格変更及び在留期間更新手続きについて(4月8日)][visaupdate]
+
 
 [csthp]: https://www.cst.nihon-u.ac.jp/info_covid19/
 [0407guidance]: https://www.cst.nihon-u.ac.jp/news/detail/20200407_569.html
