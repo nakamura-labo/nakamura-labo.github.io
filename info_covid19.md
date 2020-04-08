@@ -69,8 +69,8 @@ section_id: info_covid19
 * [令和２年度（前学期）ガイダンス及び授業開始日について（4月7日）][0407guidance]
 * [海外から帰国（再入国）後の対応について(4月2日)][backtojapan]
 
-### 健康管理に関すること
-* [新型コロナウイルス感染防止策の徹底について(4月2日)][infection_prevention]
+### 健康管理に関すること**[New]**
+* [新型コロナウイルス感染防止策の徹底について(4月8日)][infection_prevention]
 
 ### 在留期間更新手続きに関すること**[New]**
 * [在留資格変更及び在留期間更新手続きについて(4月8日)][visaupdate]
@@ -87,7 +87,7 @@ section_id: info_covid19
 [healthcheck]: https://www.cst.nihon-u.ac.jp/info_covid19/pdf/20200401.pdf
 [guidance]: https://www.cst.nihon-u.ac.jp/news/detail/20200330_560.html
 [shougakukin]: https://www.cst.nihon-u.ac.jp/news/detail/20200331_563.html
-[infection_prevention]: https://www.cst.nihon-u.ac.jp/news/detail/20200402_567.html
+[infection_prevention]: https://www.cst.nihon-u.ac.jp/news/detail/20200408_571.html
 [jimushitu]: http://www.civil.cst.nihon-u.ac.jp/contact/
 [kyoumu]: https://www.cst.nihon-u.ac.jp/campuslife/support/certification_g.html
 [visaupdate]: https://www.cst.nihon-u.ac.jp/news/detail/20200408_572.html
