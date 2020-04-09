@@ -13,6 +13,7 @@ section_id: info_covid19
 状況は日々変化しており、毎日のように学生に向けたお知らせが出されています。１日一度はこのサイトを見て、情報を確認してください。
 
 #### 更新履歴
+* <span style="font-size: 85%">2020/04/09 緊急事態宣言の発令に伴う入構禁止及び事務窓口休止等について追加</span>
 * <span style="font-size: 85%">2020/04/08 在留期間更新手続きについて追加</span>
 * <span style="font-size: 85%">2020/04/08 学生御家族へのメッセージへのリンクを追加</span>
 * <span style="font-size: 85%">2020/04/07 理工学部長メッセージへのリンクを追加</span>
@@ -25,11 +26,11 @@ section_id: info_covid19
 ## 土木工学科からのお知らせ
 
 ### 日本大学及び理工学部長メッセージ**[New]**
-* [日本大学の学生・生徒及び御家族の皆様へ](http://www.nihon-u.ac.jp/information/2020/04/11866/)
+* [日本大学の学生・生徒及び御家族の皆様へ](http://www.nihon-u.ac.jp/information/2020/04/11866/)が掲載されました。
 * [「未知未踏への挑戦」のマインドで難局に立ち向かおう](https://www.cst.nihon-u.ac.jp/news/detail/20200407_570.html)が掲載されました。
 
 ### 校舎立ち入り制限**[New]**
-* 政府の緊急事態宣言を踏まえ、**原則として学生・教員の入構を禁止**することとされました。[日本大学HP](http://www.nihon-u.ac.jp/information/2020/04/11865/)[理工学部HP](https://www.cst.nihon-u.ac.jp/news/detail/20200409_573.html)
+* 政府の緊急事態宣言を踏まえ、**原則として学生・教員の入構を禁止**することとされました。（[日本大学HP](http://www.nihon-u.ac.jp/information/2020/04/11865/)）（[理工学部HP](https://www.cst.nihon-u.ac.jp/news/detail/20200409_573.html)）
 * 土木事務室も閉鎖です。このため、**質問はメールで**教員や土木事務室宛て（zimushitsu＠civil.cst.nihon-u.ac.jp）[＠は半角にしてください]に送ってください。**電話はつながりません**。
 
 ### ガイダンス・授業等日程**[New]**
