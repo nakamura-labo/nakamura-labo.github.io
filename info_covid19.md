@@ -29,7 +29,7 @@ section_id: info_covid19
 * [「未知未踏への挑戦」のマインドで難局に立ち向かおう](https://www.cst.nihon-u.ac.jp/news/detail/20200407_570.html)が掲載されました。
 
 ### 校舎立ち入り制限**[New]**
-* 政府の緊急事態宣言を踏まえ、**原則として学生・教員の入構を禁止**することとされました。[日本大学HP参照](http://www.nihon-u.ac.jp/information/2020/04/11865/)
+* 政府の緊急事態宣言を踏まえ、**原則として学生・教員の入構を禁止**することとされました。[日本大学HP](http://www.nihon-u.ac.jp/information/2020/04/11865/)[理工学部HP](https://www.cst.nihon-u.ac.jp/news/detail/20200409_573.html)
 * 土木事務室も閉鎖です。このため、**質問はメールで**教員や土木事務室宛て（zimushitsu＠civil.cst.nihon-u.ac.jp）[＠は半角にしてください]に送ってください。**電話はつながりません**。
 
 ### ガイダンス・授業等日程**[New]**
@@ -74,6 +74,9 @@ section_id: info_covid19
 
 ### 在留期間更新手続きに関すること**[New]**
 * [在留資格変更及び在留期間更新手続きについて(4月8日)][visaupdate]
+
+### その他
+* [緊急事態宣言の発令に伴う入構禁止及び事務窓口休止等について(4月9日)](https://www.cst.nihon-u.ac.jp/news/detail/20200409_573.html)
 
 
 [csthp]: https://www.cst.nihon-u.ac.jp/info_covid19/
