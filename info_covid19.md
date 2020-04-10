@@ -1,6 +1,6 @@
 ---
 layout: page
-title: コロナウイルス関連の土木工学科情報
+title: コロナウイルス関連の土木工学科の対応関連情報
 description: 日本大学 理工学部 土木工学科 コロナウイルス関連
 section_id: info_covid19
 ---
