@@ -14,6 +14,7 @@ section_id: info_covid19
 
 #### 更新履歴
 * <span style="font-size: 85%">2020/04/10 **【重要】**就職指導課の対応とお知らせを追加</span>
+* <span style="font-size: 85%">2020/04/10 **【重要】**学生支援室の扱いについて追加</span>
 * <span style="font-size: 85%">2020/04/09 **【重要】**奨学金関係書類の提出等日程の変更について追加</span>
 * <span style="font-size: 85%">2020/04/09 緊急事態宣言の発令に伴う入構禁止及び事務窓口休止等について追加</span>
 * <span style="font-size: 85%">2020/04/08 在留期間更新手続きについて追加</span>
@@ -86,6 +87,9 @@ section_id: info_covid19
 ### 在留期間更新手続きに関すること**[New]**
 * [在留資格変更及び在留期間更新手続きについて(4月8日)][visaupdate]
 
+### 学生支援室に関すること**[New]**
+* [学生支援室の取扱いについて(4月10日)](https://www.cst.nihon-u.ac.jp/news/detail/20200410_575.html
+)
 ### その他
 * [緊急事態宣言の発令に伴う入構禁止及び事務窓口休止等について(4月9日)](https://www.cst.nihon-u.ac.jp/news/detail/20200409_573.html)
 
