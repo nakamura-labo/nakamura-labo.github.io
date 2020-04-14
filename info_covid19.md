@@ -4,6 +4,7 @@ title: コロナウイルス関連の土木工学科の対応関連情報
 description: 日本大学 理工学部 土木工学科 コロナウイルス関連
 section_id: info_covid19
 ---
+![STAY HOME](images/stay_home.jpg)
 # 新型コロナウイルス感染症に係る土木工学科の対応関係情報
 
 **一度再読み込みしてください**
