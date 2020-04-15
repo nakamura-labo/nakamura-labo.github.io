@@ -14,6 +14,7 @@ section_id: info_covid19
 状況は日々変化しており、毎日のように学生に向けたお知らせが出されています。１日一度はこのサイトを見て、情報を確認してください。
 
 #### 最近の更新
+* <span style="font-size: 85%">2020/04/15 **実験科目履修手続きを追加**</span>
 * <span style="font-size: 85%">2020/04/15 「メディア授業」の実施に向けてが[理工学部HP](https://www.cst.nihon-u.ac.jp/news/detail/20200415_580.html)に掲載されました</span>
 * <span style="font-size: 85%">2020/04/15 **４月、５月のガイダンス・授業・奨学金・留学生関係日程カレンダー（4月7日板）**が[理工学部HP](https://www.cst.nihon-u.ac.jp/info_covid19/pdf/calendar.pdf)に掲載されました</span>
 * <span style="font-size: 85%">2020/04/14 科目等履修生の出願手続を追加しました</span>
@@ -32,6 +33,12 @@ section_id: info_covid19
 * **授業開始日は5月11日（月）から**実施。ただし、4月20日（月）からCSTポータルを利用しオンデマンドの「メディア授業」を順次掲載していく予定です（5月11日以降の補講等で対応する科目もあり得ます）。
 * 科目等履修生の出願は、まずメールで連絡をしてください。詳しくは[こちら](https://www.cst.nihon-u.ac.jp/news/detail/20200414_579.html)。
 * [理工学部HP][0407guidance]をご覧ください。
+
+## 実験科目履修手続き**[NEW]**
+* ３・４年生の皆さんに、重村先生からメールで連絡が送られています。申込締切は4月18日（土）AM10時です。確認してください。
+* 手続き方法、ガイダンス資料等はGoogle Classroomにまとめて指示してあります。
+* Google Classroom利用の手引（4.6MB）は[こちら](images/classroom/classroom.pdf)
+
 
 ## １年生の皆さんへ（学部及び大学院）**[NEW]**
 * 自宅または実家へ、ガイダンス資料が郵送されています。
@@ -113,6 +120,7 @@ section_id: info_covid19
 <a name="changelog"></a>
 ## 更新履歴
 
+* <span style="font-size: 85%">2020/04/15 **実験科目履修手続きを追加**</span>
 * <span style="font-size: 85%">2020/04/15 「メディア授業」の実施に向けてが[理工学部HP](https://www.cst.nihon-u.ac.jp/news/detail/20200415_580.html)に掲載されました</span>
 * <span style="font-size: 85%">2020/04/15 ４月、５月のガイダンス・授業・奨学金・留学生関係日程（4月7日板）が[理工学部HP](https://www.cst.nihon-u.ac.jp/info_covid19/pdf/calendar.pdf)に掲載されました</span>
 * <span style="font-size: 85%">2020/04/14 科目等履修生の出願手続を追加しました</span>
