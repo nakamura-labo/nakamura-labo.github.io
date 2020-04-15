@@ -14,10 +14,9 @@ section_id: info_covid19
 状況は日々変化しており、毎日のように学生に向けたお知らせが出されています。１日一度はこのサイトを見て、情報を確認してください。
 
 #### 最近の更新
+* <span style="font-size: 85%">2020/04/15 「メディア授業」の実施に向けてが[理工学部HP](https://www.cst.nihon-u.ac.jp/news/detail/20200415_580.html)に掲載されました</span>
+* <span style="font-size: 85%">2020/04/15 ４月、５月のガイダンス・授業・奨学金・留学生関係日程（4月7日板）が[理工学部HP](https://www.cst.nihon-u.ac.jp/info_covid19/pdf/calendar.pdf)に掲載されました</span>
 * <span style="font-size: 85%">2020/04/14 科目等履修生の出願手続を追加しました</span>
-* <span style="font-size: 85%">2020/04/13 **【重要】履修登録日程を掲載しました**</span>
-* <span style="font-size: 85%">2020/04/13 **【重要】【留学生向け】私費外国人留学生向けの授業料減免募集が始まりました**</span>
-* <span style="font-size: 85%">2020/04/13 **【編入生向け】奨学金の手続き案内を追加**</span>
 * <span style="font-size: 85%">2020/04/13 １年生の皆さんへのお知らせを追加</span>
 * <span style="font-size: 85%">2020/04/13 ゼミナール配属に関するお知らせを追加</span>
 * 他の更新履歴は[こちら](#changelog)
@@ -113,12 +112,14 @@ section_id: info_covid19
 <a name="changelog"></a>
 ## 更新履歴
 
+* <span style="font-size: 85%">2020/04/15 「メディア授業」の実施に向けてが[理工学部HP](https://www.cst.nihon-u.ac.jp/news/detail/20200415_580.html)に掲載されました</span>
+* <span style="font-size: 85%">2020/04/15 ４月、５月のガイダンス・授業・奨学金・留学生関係日程（4月7日板）が[理工学部HP](https://www.cst.nihon-u.ac.jp/info_covid19/pdf/calendar.pdf)に掲載されました</span>
 * <span style="font-size: 85%">2020/04/14 科目等履修生の出願手続を追加しました</span>
+* <span style="font-size: 85%">2020/04/13 １年生の皆さんへのお知らせを追加</span>
+* <span style="font-size: 85%">2020/04/13 ゼミナール配属に関するお知らせを追加</span>
 * <span style="font-size: 85%">2020/04/13 **【重要】履修登録日程を掲載しました**</span>
 * <span style="font-size: 85%">2020/04/13 **【重要】【留学生向け】私費外国人留学生向けの授業料減免募集が始まりました**</span>
 * <span style="font-size: 85%">2020/04/13 **【編入生向け】奨学金の手続き案内を追加**</span>
-* <span style="font-size: 85%">2020/04/13 １年生の皆さんへのお知らせを追加</span>
-* <span style="font-size: 85%">2020/04/13 ゼミナール配属に関するお知らせを追加</span>
 * <span style="font-size: 85%">2020/04/10 **【重要】**就職指導課の対応とお知らせを追加</span>
 * <span style="font-size: 85%">2020/04/10 **【重要】**学生支援室の扱いについて追加</span>
 * <span style="font-size: 85%">2020/04/09 緊急事態宣言の発令に伴う入構禁止及び事務窓口休止等について追加</span>
