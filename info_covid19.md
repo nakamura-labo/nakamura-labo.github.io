@@ -15,7 +15,7 @@ section_id: info_covid19
 
 #### 最近の更新
 * <span style="font-size: 85%">2020/04/15 「メディア授業」の実施に向けてが[理工学部HP](https://www.cst.nihon-u.ac.jp/news/detail/20200415_580.html)に掲載されました</span>
-* <span style="font-size: 85%">2020/04/15 ４月、５月のガイダンス・授業・奨学金・留学生関係日程（4月7日板）が[理工学部HP](https://www.cst.nihon-u.ac.jp/info_covid19/pdf/calendar.pdf)に掲載されました</span>
+* <span style="font-size: 85%">2020/04/15 **４月、５月のガイダンス・授業・奨学金・留学生関係日程カレンダー（4月7日板）**が[理工学部HP](https://www.cst.nihon-u.ac.jp/info_covid19/pdf/calendar.pdf)に掲載されました</span>
 * <span style="font-size: 85%">2020/04/14 科目等履修生の出願手続を追加しました</span>
 * <span style="font-size: 85%">2020/04/13 １年生の皆さんへのお知らせを追加</span>
 * <span style="font-size: 85%">2020/04/13 ゼミナール配属に関するお知らせを追加</span>
@@ -24,7 +24,8 @@ section_id: info_covid19
 
 
 ## 土木工学科からのお知らせ
-
+## ４月、５月のガイダンス・授業・奨学金・留学生関係日程カレンダー（4月7日板）
+![４月、５月のガイダンス・授業・奨学金・留学生関係日程カレンダー（4月7日板）](images/fy2020/calendar.png)
 ## **履修登録・ガイダンス・授業等日程・科目等履修生出願[NEW]**
 * **履修登録期間は4月13日（月）から5月23日（土）24時（web登録）**です。詳しくは[こちら](images/fy2020/modified_schedule.pdf)で確認してください。
 * **ガイダンスは4月20日（月）から**、**通学を伴わない**ガイダンスを実施します。
