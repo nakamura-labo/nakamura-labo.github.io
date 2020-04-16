@@ -14,6 +14,7 @@ section_id: info_covid19
 状況は日々変化しており、毎日のように学生に向けたお知らせが出されています。１日一度はこのサイトを見て、情報を確認してください。
 
 #### 最近の更新
+* <span style="font-size: 85%">2020/04/1 **[オンライン授業の環境調査アンケート結果を更新](online_lecture)**</span>
 * <span style="font-size: 85%">2020/04/15 **[実験科目履修手続きを追加](#experiment)**</span>
 * <span style="font-size: 85%">2020/04/15 「メディア授業」の実施に向けてが[理工学部HP](https://www.cst.nihon-u.ac.jp/news/detail/20200415_580.html)に掲載されました</span>
 * <span style="font-size: 85%">2020/04/15 **４月、５月のガイダンス・授業・奨学金・留学生関係日程カレンダー（4月7日板）**が[理工学部HP](https://www.cst.nihon-u.ac.jp/info_covid19/pdf/calendar.pdf)に掲載されました</span>
@@ -121,7 +122,8 @@ section_id: info_covid19
 <a name="changelog"></a>
 ## 更新履歴
 
-* <span style="font-size: 85%">2020/04/15 **実験科目履修手続きを追加**</span>
+* <span style="font-size: 85%">2020/04/1 **[オンライン授業の環境調査アンケート結果を更新](online_lecture)**</span>
+* <span style="font-size: 85%">2020/04/15 **[実験科目履修手続きを追加](#experiment)**</span>
 * <span style="font-size: 85%">2020/04/15 「メディア授業」の実施に向けてが[理工学部HP](https://www.cst.nihon-u.ac.jp/news/detail/20200415_580.html)に掲載されました</span>
 * <span style="font-size: 85%">2020/04/15 ４月、５月のガイダンス・授業・奨学金・留学生関係日程（4月7日板）が[理工学部HP](https://www.cst.nihon-u.ac.jp/info_covid19/pdf/calendar.pdf)に掲載されました</span>
 * <span style="font-size: 85%">2020/04/14 科目等履修生の出願手続を追加しました</span>
