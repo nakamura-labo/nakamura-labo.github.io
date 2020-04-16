@@ -122,7 +122,7 @@ section_id: info_covid19
 <a name="changelog"></a>
 ## 更新履歴
 
-* <span style="font-size: 85%">2020/04/1 **[オンライン授業の環境調査アンケート結果を更新](online_lecture)**</span>
+* <span style="font-size: 85%">2020/04/16 **[オンライン授業の環境調査アンケート結果を更新](online_lecture)**</span>
 * <span style="font-size: 85%">2020/04/15 **[実験科目履修手続きを追加](#experiment)**</span>
 * <span style="font-size: 85%">2020/04/15 「メディア授業」の実施に向けてが[理工学部HP](https://www.cst.nihon-u.ac.jp/news/detail/20200415_580.html)に掲載されました</span>
 * <span style="font-size: 85%">2020/04/15 ４月、５月のガイダンス・授業・奨学金・留学生関係日程（4月7日板）が[理工学部HP](https://www.cst.nihon-u.ac.jp/info_covid19/pdf/calendar.pdf)に掲載されました</span>
