@@ -38,7 +38,7 @@ section_id: info_covid19
 ## **実験科目履修手続き[NEW]**
 * ３・４年生の皆さんに、重村先生からメールで連絡が送られています。申込締切は4月18日（土）AM10時です。確認してください。
 * 手続き方法、ガイダンス資料等はGoogle Classroomにまとめて指示してあります。
-* Google Classroom利用の手引（4.6MB）は[こちら](images/classroom/classroom.pdf)
+* Google Classroom利用の手引[【PDF（4.6MB）】](images/classroom/classroom.pdf)[【HTML】](classroom)
 
 
 ## １年生の皆さんへ（学部及び大学院）**[NEW]**
