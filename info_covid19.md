@@ -14,6 +14,7 @@ section_id: info_covid19
 状況は日々変化しており、毎日のように学生に向けたお知らせが出されています。１日一度はこのサイトを見て、情報を確認してください。
 
 #### 最近の更新
+* <span style="font-size: 85%">2020/04/16 **[履修登録の手引き・授業時間割表（学部）][registration_timetable]を掲載**</span>
 * <span style="font-size: 85%">2020/04/16 **[オンライン授業の環境調査アンケート結果を更新](online_lecture)**</span>
 * <span style="font-size: 85%">2020/04/15 **[実験科目履修手続きを追加](#experiment)**</span>
 * <span style="font-size: 85%">2020/04/15 「メディア授業」の実施に向けてが[理工学部HP](https://www.cst.nihon-u.ac.jp/news/detail/20200415_580.html)に掲載されました</span>
@@ -29,7 +30,8 @@ section_id: info_covid19
 ## ４月、５月のガイダンス・授業・奨学金・留学生関係日程カレンダー（4月7日板）
 ![４月、５月のガイダンス・授業・奨学金・留学生関係日程カレンダー（4月7日板）](images/fy2020/calendar.jpg)
 ## **履修登録・ガイダンス・授業等日程・科目等履修生出願[NEW]**
-* **履修登録期間は4月13日（月）から5月23日（土）24時（web登録）**です。詳しくは[こちら](images/fy2020/modified_schedule.pdf)で確認してください。
+* **[履修登録の手引き・授業時間割表（学部）][registration_timetable]**
+* **履修登録期間は4月13日（月）から5月23日（土）**です。
 * **ガイダンスは4月20日（月）から**、**通学を伴わない**ガイダンスを実施します。
 * **授業開始日は5月11日（月）から**実施。ただし、4月20日（月）からCSTポータルを利用しオンデマンドの「メディア授業」を順次掲載していく予定です（5月11日以降の補講等で対応する科目もあり得ます）。
 * 科目等履修生の出願は、まずメールで連絡をしてください。詳しくは[こちら](https://www.cst.nihon-u.ac.jp/news/detail/20200414_579.html)。
@@ -122,6 +124,7 @@ section_id: info_covid19
 <a name="changelog"></a>
 ## 更新履歴
 
+* <span style="font-size: 85%">2020/04/16 **[履修登録の手引き・授業時間割表（学部）][registration_timetable]を掲載**</span>
 * <span style="font-size: 85%">2020/04/16 **[オンライン授業の環境調査アンケート結果を更新](online_lecture)**</span>
 * <span style="font-size: 85%">2020/04/15 **[実験科目履修手続きを追加](#experiment)**</span>
 * <span style="font-size: 85%">2020/04/15 「メディア授業」の実施に向けてが[理工学部HP](https://www.cst.nihon-u.ac.jp/news/detail/20200415_580.html)に掲載されました</span>
@@ -159,3 +162,4 @@ section_id: info_covid19
 [jimushitu]: http://www.civil.cst.nihon-u.ac.jp/contact/
 [kyoumu]: https://www.cst.nihon-u.ac.jp/campuslife/support/certification_g.html
 [visaupdate]: https://www.cst.nihon-u.ac.jp/news/detail/20200408_572.html
+[registration_timetable]: images/fy2020/gakubu_registration_guide_and_timetable.pdf
