@@ -14,6 +14,7 @@ section_id: info_covid19
 状況は日々変化しており、毎日のように学生に向けたお知らせが出されています。１日一度はこのサイトを見て、情報を確認してください。
 
 #### 最近の更新
+* <span style="font-size: 85%">2020/04/17 **[１年生向け事務・履修ガイダンス動画の掲載](https://www.cst.nihon-u.ac.jp/news/detail/20200417_581.html)を追加**</span>
 * <span style="font-size: 85%">2020/04/16 **[履修登録の手引き・授業時間割表（学部）][registration_timetable]を掲載**</span>
 * <span style="font-size: 85%">2020/04/16 **[オンライン授業の環境調査アンケート結果を更新](online_lecture)**</span>
 * <span style="font-size: 85%">2020/04/15 **[実験科目履修手続きを追加](#experiment)**</span>
@@ -21,7 +22,6 @@ section_id: info_covid19
 * <span style="font-size: 85%">2020/04/15 **４月、５月のガイダンス・授業・奨学金・留学生関係日程カレンダー（4月7日板）**が[理工学部HP](https://www.cst.nihon-u.ac.jp/info_covid19/pdf/calendar.pdf)に掲載されました</span>
 * <span style="font-size: 85%">2020/04/14 科目等履修生の出願手続を追加しました</span>
 * <span style="font-size: 85%">2020/04/13 １年生の皆さんへのお知らせを追加</span>
-* <span style="font-size: 85%">2020/04/13 ゼミナール配属に関するお知らせを追加</span>
 * 他の更新履歴は[こちら](#changelog)
 {: .list-unstyled}
 
@@ -45,6 +45,7 @@ section_id: info_covid19
 
 
 ## １年生の皆さんへ（学部及び大学院）**[NEW]**
+* [「事務・履修ガイダンス」動画が公開されています。](https://www.cst.nihon-u.ac.jp/news/detail/20200417_581.html)
 * 自宅または実家へ、ガイダンス資料が郵送されています。
 * 大学からの様々な連絡はメールで届きます。同封資料に沿って、**NUメールを使えるようにしてください**。
 * NUメールが使えるようになったら、civil1＠civil.cst.nihon-u.ac.jpに**NUメールからメールを送ってください**。
@@ -124,6 +125,7 @@ section_id: info_covid19
 <a name="changelog"></a>
 ## 更新履歴
 
+* <span style="font-size: 85%">2020/04/17 **[１年生向け事務・履修ガイダンス動画の掲載](https://www.cst.nihon-u.ac.jp/news/detail/20200417_581.html)を追加**</span>
 * <span style="font-size: 85%">2020/04/16 **[履修登録の手引き・授業時間割表（学部）][registration_timetable]を掲載**</span>
 * <span style="font-size: 85%">2020/04/16 **[オンライン授業の環境調査アンケート結果を更新](online_lecture)**</span>
 * <span style="font-size: 85%">2020/04/15 **[実験科目履修手続きを追加](#experiment)**</span>
