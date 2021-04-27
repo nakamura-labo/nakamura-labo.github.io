@@ -9,6 +9,7 @@ section_id: papers
 
 ## 査読付き論文
 
+1. Hideo NAKAMURA, Masaharu OOSAWA, "[Effects of the underground discharge channel / reservoir for small urban rivers in the Tokyo area](https://doi.org/10.1088/1755-1315/703/1/012029)", IOP Conference Series: Earth and Environmental Science, Vol.703, 2021.04
 1. 大森匠、大沢昌玄、中村英夫、「[高齢者の私事を目的とした徒歩移動の連鎖・活動量と都市機能の配置に関する研究](https://doi.org/10.2208/jscejipm.75.I_527)」、公益社団法人土木学会、土木学会論文集 D3 (土木計画学)、Vol.75、No.5、pp.I_527--I_533、2019年12月
 1. 臼井小春、大沢昌玄、中村英夫、「[郊外住宅地における土地区画整理事業完了後の大規模街区の土地利用転換に関する研究](http://dx.doi.org/10.11361/journalcpij.54.555)」、日本都市計画学会、都市計画論文集、Vol.54、No.3、pp.555-561、2019年10月
 1. 谷﨑将吾、大沢昌玄、中村英夫、「[都市計画決定された駅前広場の鉄道廃止後の都市計画の扱い及び活用実態に関する研究](http://dx.doi.org/10.11361/journalcpij.53.1022)」、日本都市計画学会、都市計画論文集、Vol.53、No.3、pp.1022-1028、2018年10月
