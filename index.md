@@ -24,7 +24,6 @@ section_id: labo
 
 ## 主なコンテンツ
 
-* [コロナウイルス関連情報](info_covid19)
 * [メンバー](member)
 * [論文・学会発表](papers)
 * [出来事](posts)
