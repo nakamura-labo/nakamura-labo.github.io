@@ -50,6 +50,8 @@ section_id: papers
 
 ## 学協会誌に掲載された寄稿依頼論文・論説
 
+1. 中村英夫、「都市づくり分野のＤＸの方向性と課題」、全日本土地区画整理士会、区画整理士会報、No.218、pp.2-6、2022年9月
+1. 中村英夫、「人間中心のまちづくりの本格始動の契機に」、都市みらい推進機構、都市みらい通信、No.334、p.2、2022年6月
 1. 中村英夫、「持続可能で多様性に富むまちなかづくりと区画整理」、街づくり区画整理協会、区画整理、Vol.64、No.2、pp.6-9、2021年2月
 1. 中村英夫、「区画整理の進化にあたり重視すべきこと〜ソフトウェア開発のフレームワークとの類似性に着目して〜」、全日本土地区画整理士会、区画整理士会報、No.207、pp.2-5、2020年11月
 1. 中村英夫、「令和時代のまちづくりを考える」、全日本土地区画整理士会、区画整理士会報、No.202、pp.10-13、2020年1月
@@ -73,6 +75,7 @@ section_id: papers
 
 ## 講演・外部講師など
 
+1. 都市みらい推進機構、令和4年度調査研究報告会・講演会、講演「都市づくり分野のＤＸ導入　その方向性と課題」、2022年9月
 1. 全日本土地区画整理士会、区画整理サロン、スピーカー、「防災・減災対策とまちづくりの連携」、2020年3月
 1. Shanghai Summit on Global Urban Underground Space Development and Utilization & the 7th China (Shanghai) Conference on Underground Space Development and Exploration 2019, "The Promotion of Underground Space Utilization in Tokyo Through Public-Private Partnership", 2019年10月
 1. 第18回札幌都心共創フォーラム、講演「公民で進める都心総合再生」、2019年8月
