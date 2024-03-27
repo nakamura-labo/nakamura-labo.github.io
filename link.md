@@ -15,7 +15,6 @@ section_id: link
 
 * 官公庁
   * [国土交通省][mlit]
-  * [復興庁][reconstruction]
   {: .list-unstyled}
 {: .list-unstyled}
 
@@ -37,7 +36,6 @@ section_id: link
 [civil]: http://www.civil.cst.nihon-u.ac.jp
 [laboratory]: http://www.civil.cst.nihon-u.ac.jp/laboratory/
 [mlit]: http://www.mlit.go.jp
-[reconstruction]: http://www.reconstruction.go.jp
 [jste]: http://www.jste.or.jp
 [cpij]: http://www.cpij.or.jp
 [jsce]: http://www.jsce.or.jp
