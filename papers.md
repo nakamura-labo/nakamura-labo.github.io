@@ -9,7 +9,7 @@ section_id: papers
 
 ## 査読付き論文
 
-1. 高畠佑樹, 大沢昌玄, 中村英夫、「[駅前広場の整備状況の差異から見た都市機能誘導施設立地特性に関する研究 ](https://researchmap.jp/HideoNakamura/published_papers/45882095)」、日本都市計画学会、都市計画論文集、Vol.58、No.3、pp.704-710, 2023.10
+1. 高畠佑樹, 大沢昌玄, 中村英夫、「[駅前広場の整備状況の差異から見た都市機能誘導施設立地特性に関する研究 ](https://doi.org/10.11361/journalcpij.58.704)」、日本都市計画学会、都市計画論文集、Vol.58、No.3、pp.704-710, 2023.10
 1. 村上清徳、中村英夫、大沢昌玄、「[地下駅出入口との連絡建物の特徴及び都市開発諸制度の適用による連絡施設の導入に関する研究](https://doi.org/10.11361/journalcpij.57.1369)」、日本都市計画学会、都市計画論文集、Vol.57、No.3、pp.1369-1376, 2022.10
 1. Hideo NAKAMURA, Masaharu OOSAWA, "[Effects of the underground discharge channel / reservoir for small urban rivers in the Tokyo area](https://doi.org/10.1088/1755-1315/703/1/012029)", IOP Conference Series: Earth and Environmental Science, Vol.703, 2021.04
 1. 大森匠、大沢昌玄、中村英夫、「[高齢者の私事を目的とした徒歩移動の連鎖・活動量と都市機能の配置に関する研究](https://doi.org/10.2208/jscejipm.75.I_527)」、公益社団法人土木学会、土木学会論文集 D3 (土木計画学)、Vol.75、No.5、pp.I_527--I_533、2019年12月
