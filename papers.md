@@ -9,6 +9,7 @@ section_id: papers
 
 ## 査読付き論文
 
+1. 村上清徳、中村英夫、大沢昌玄、菊池雅彦、「[民間都市開発で整備された地下通路のマスタープランにおける位置づけと実際の整備状況に関する研究]」(https://doi.org/10.11361/journalcpij.59.1296)、日本都市計画学会、都市計画論文集、Vol.59、No.2、pp.1296-1303, 2024.10
 1. 大沢昌玄、菊池雅彦、中村英夫、岸井隆幸、「[流市法に基づく流通業務団地造成事業創設背景にある都市課題と検討経緯に関する史的研究]」(https://doi.org/10.11361/journalcpij.59.215)、日本都市計画学会、都市計画論文集、Vol.59、No.2、pp.215-221, 2024.10
 1. Hideo NAKAMURA, Kiyonori Murakami, Masahiko Kikuchi, Masaharu Oosawa, "Study on the Actual Situation of Entrances and Exits of Underground Stations Installed on Building Sites and the Application of Urban Development Systems", ACUUS 18th International Conference, 2023.11
 1. 高畠佑樹, 大沢昌玄, 中村英夫、「[駅前広場の整備状況の差異から見た都市機能誘導施設立地特性に関する研究 ](https://doi.org/10.11361/journalcpij.58.704)」、日本都市計画学会、都市計画論文集、Vol.58、No.3、pp.704-710, 2023.10
