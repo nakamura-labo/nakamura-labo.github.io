@@ -9,6 +9,7 @@ section_id: papers
 
 ## 査読付き論文
 
+1. Hideo NAKAMURA, Kiyonori Murakami, Masahiko Kikuchi, Masaharu Oosawa, "Study on the Actual Situation of Entrances and Exits of Underground Stations Installed on Building Sites and the Application of Urban Development Systems", ACUUS 18th International Conference, 2023.11
 1. 高畠佑樹, 大沢昌玄, 中村英夫、「[駅前広場の整備状況の差異から見た都市機能誘導施設立地特性に関する研究 ](https://doi.org/10.11361/journalcpij.58.704)」、日本都市計画学会、都市計画論文集、Vol.58、No.3、pp.704-710, 2023.10
 1. 村上清徳、中村英夫、大沢昌玄、「[地下駅出入口との連絡建物の特徴及び都市開発諸制度の適用による連絡施設の導入に関する研究](https://doi.org/10.11361/journalcpij.57.1369)」、日本都市計画学会、都市計画論文集、Vol.57、No.3、pp.1369-1376, 2022.10
 1. Hideo NAKAMURA, Masaharu OOSAWA, "[Effects of the underground discharge channel / reservoir for small urban rivers in the Tokyo area](https://doi.org/10.1088/1755-1315/703/1/012029)", IOP Conference Series: Earth and Environmental Science, Vol.703, 2021.04
@@ -22,7 +23,6 @@ section_id: papers
 
 ## 口頭発表論文
 
-1. Hideo NAKAMURA, Kiyonori Murakami, Masahiko Kikuchi, Masaharu Oosawa, "Study on the Actual Situation of Entrances and Exits of Underground Stations Installed on Building Sites and the Application of Urban Development Systems", ACUUS 18th International Conference, 2023.11
 1. 望月菜々美、中村英夫、三友奈々、「歩行者動線からみた休憩空間における滞留行為の特性に関する研究」、土木学会全国大会第78回年次学術講演会、2023年9月
 1. 石川陸、中村英夫、「東京都の都市再生特別地区におけるソフト貢献施設の提案と運営実態の差異に関する研究」、第66回日本大学理工学部学術講演会、2022年12月
 1. 望月菜々美、三友奈々、中村英夫、「休憩空間における滞留特性と配置に関する研究」、第66回日本大学理工学部学術講演会、2022年12月
