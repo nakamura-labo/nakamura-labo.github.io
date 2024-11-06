@@ -86,6 +86,7 @@ section_id: papers
 
 ## 講演・外部講師など
 
+1. 区画整理と街づくりフォーラム実行委員会、区画整理と街づくりフォーラム２０２４、パネルディスカッション「区画整理とデジタル・トランスフォーメーション（ＤＸ）」パネラー、2024年10月
 1. 都市みらい推進機構、令和4年度調査研究報告会・講演会、講演「都市づくり分野のＤＸ導入　その方向性と課題」、2022年9月
 1. 全日本土地区画整理士会、区画整理サロン、スピーカー、「防災・減災対策とまちづくりの連携」、2020年3月
 1. Shanghai Summit on Global Urban Underground Space Development and Utilization & the 7th China (Shanghai) Conference on Underground Space Development and Exploration 2019, "The Promotion of Underground Space Utilization in Tokyo Through Public-Private Partnership", 2019年10月
