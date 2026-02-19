@@ -8,7 +8,7 @@
 # Site settings
 title: 中村研究室
 email: nakamura.hideo.civil.cst.nu@gmail.com
-baseurl: "/~h.nakamura"
+baseurl: ""
 url: "http://civilold.civil.cst.nihon-u.ac.jp"
 
 # Build settings
